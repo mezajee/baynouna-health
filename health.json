@@ -1,0 +1,14 @@
+{
+ "status": "running",
+ "process": "OCR · vLLM",
+ "phase": "OCR",
+ "overall_percent": 26,
+ "step_percent": 26,
+ "eta": "14m",
+ "gpu_load_avg_5min": 22,
+ "gpu_load_now": 22,
+ "gpu_temp": 49,
+ "recent_error": null,
+ "updated": "2026-07-04T07:07:30Z",
+ "updated_local": "11:07"
+}
