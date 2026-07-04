@@ -1,14 +1,14 @@
 {
- "status": "idle",
- "process": "—",
- "phase": "",
- "overall_percent": 0,
- "step_percent": 62,
- "eta": "--",
- "gpu_load_avg_5min": 35,
- "gpu_load_now": 11,
+ "status": "running",
+ "process": "OCR · vLLM",
+ "phase": "OCR",
+ "overall_percent": 63,
+ "step_percent": 63,
+ "eta": "6m",
+ "gpu_load_avg_5min": 28,
+ "gpu_load_now": 22,
  "gpu_temp": 48,
  "recent_error": null,
- "updated": "2026-07-04T07:07:36Z",
- "updated_local": "11:07"
+ "updated": "2026-07-04T07:12:41Z",
+ "updated_local": "11:12"
 }
