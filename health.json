@@ -5,10 +5,10 @@
  "overall_percent": 0,
  "step_percent": 100,
  "eta": "--",
- "gpu_load_avg_5min": 0,
+ "gpu_load_avg_5min": 2,
  "gpu_load_now": 0,
- "gpu_temp": 32,
+ "gpu_temp": 31,
  "recent_error": null,
- "updated": "2026-07-04T07:22:54Z",
- "updated_local": "11:22"
+ "updated": "2026-07-04T07:28:02Z",
+ "updated_local": "11:28"
 }
