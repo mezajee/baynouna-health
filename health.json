@@ -1,8 +1,8 @@
 {
  "status": "running",
  "host": "BAYNOUNA_II",
- "updated": "2026-07-07T02:58:16Z",
- "updated_local": "06:58",
+ "updated": "2026-07-07T03:03:25Z",
+ "updated_local": "07:03",
  "process": "S1 OCR-VAULT-QWEN f20/29 p820/1838 · P2 CLEAR-ORIG",
  "process_name": "VLLM::EngineCore",
  "model": "P2 CLEAR-ORIG",
@@ -30,7 +30,7 @@
  "round": "--",
  "raw_label": "S1/8 99%",
  "recent_docs": [
-  "Arab_Pack_data"
+  "Arabian Packaging - Financial Satetements 2003"
  ],
  "current_doc": "BJC - 20110519 Feasibilty Study of the Refurbish",
  "gpu_load": 99,
@@ -40,17 +40,17 @@
  "gpu_mem_percent": 99,
  "gpu_temp": 46,
  "gpu_temp_mem": null,
- "gpu_power_w": 141.6,
+ "gpu_power_w": 141.9,
  "gpu_power_limit_w": 600.0,
  "gpu_power_percent": 24,
  "gpu_fan_percent": 31,
  "gpu_clock_mhz": 2940,
  "gpu_clock_mem_mhz": 13801,
  "gpu_pstate": "P1",
- "cpu_load": 5,
- "cpu_load_max": 80,
- "cpu_temp": 56,
- "cpu_power_w": 59.2,
+ "cpu_load": 6,
+ "cpu_load_max": 73,
+ "cpu_temp": 52,
+ "cpu_power_w": 58.8,
  "cpu_fan_rpm": 0,
  "cpu_freq_mhz": 4300,
  "ram_used_gb": 51.0,
@@ -73,15 +73,15 @@
    "percent": 0
   }
  ],
- "power_compute_w": 200.8,
+ "power_compute_w": 200.7,
  "gpu_load_5m": 99,
  "gpu_temp_5m": 47,
  "gpu_mem_percent_5m": 99,
- "gpu_power_w_5m": 156.7,
+ "gpu_power_w_5m": 154.5,
  "gpu_power_percent_5m": 26,
  "cpu_load_5m": 6,
- "cpu_temp_5m": 55,
- "cpu_power_w_5m": 60.7,
+ "cpu_temp_5m": 54,
+ "cpu_power_w_5m": 60.3,
  "ram_percent_5m": 77,
  "recent_error": null
 }
