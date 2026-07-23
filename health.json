@@ -1,8 +1,8 @@
 {
  "status": "idle",
  "host": "BAYNOUNA II",
- "updated": "2026-07-23T22:26:30Z",
- "updated_local": "02:26",
+ "updated": "2026-07-23T22:31:33Z",
+ "updated_local": "02:31",
  "process": "--",
  "process_name": "--",
  "model": "--",
@@ -29,7 +29,7 @@
  "gpu_mem_percent": 13,
  "gpu_temp": 27,
  "gpu_temp_mem": null,
- "gpu_power_w": 4.8,
+ "gpu_power_w": 5.0,
  "gpu_power_limit_w": 600.0,
  "gpu_power_percent": 1,
  "gpu_fan_percent": 0,
@@ -46,12 +46,12 @@
  "ram_total_gb": 66.2,
  "ram_percent": 45,
  "disk_percent": 33,
- "disk_used_gb": 1332,
+ "disk_used_gb": 1333,
  "disk_total_gb": 4000,
  "disks": [
   {
    "name": "C:",
-   "used_gb": 1332,
+   "used_gb": 1333,
    "total_gb": 4000,
    "percent": 33
   },
@@ -68,11 +68,11 @@
    "percent": 86
   }
  ],
- "power_compute_w": 4.8,
+ "power_compute_w": 5.0,
  "gpu_load_5m": 0,
  "gpu_temp_5m": 27,
  "gpu_mem_percent_5m": 13,
- "gpu_power_w_5m": 6.6,
+ "gpu_power_w_5m": 5.6,
  "gpu_power_percent_5m": 1,
  "cpu_load_5m": 3,
  "cpu_temp_5m": null,
