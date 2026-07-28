@@ -1,25 +1,41 @@
 {
- "status": "idle",
+ "status": "running",
  "host": "BAYNOUNA II",
- "updated": "2026-07-28T06:16:28Z",
- "updated_local": "10:16",
- "process": "--",
+ "updated": "2026-07-28T06:21:37Z",
+ "updated_local": "10:21",
+ "process": "VLLM::EngineCore",
  "process_name": "VLLM::EngineCore",
- "model": "--",
+ "model": "QWEN",
  "phase": "",
- "stage": "idle",
+ "stage": "qwen",
  "stage_index": 0,
- "stage_count": 0,
- "stages": [],
- "overall_percent": 0,
- "step_percent": 100,
- "eta": "--",
+ "stage_count": 3,
+ "stages": [
+  {
+   "name": "qwen",
+   "weight": 0.7,
+   "percent": 79
+  },
+  {
+   "name": "gemma",
+   "weight": 0.2,
+   "percent": 0
+  },
+  {
+   "name": "reconcile",
+   "weight": 0.1,
+   "percent": 0
+  }
+ ],
+ "overall_percent": 55,
+ "step_percent": 79,
+ "eta": "450h 32m",
  "epoch": null,
  "step_done": null,
  "step_total": null,
  "loss": null,
- "round": "--",
- "raw_label": "idle",
+ "round": null,
+ "raw_label": "QWEN",
  "recent_docs": [],
  "current_doc": null,
  "gpu_load": 0,
@@ -29,7 +45,7 @@
  "gpu_mem_percent": 95,
  "gpu_temp": 27,
  "gpu_temp_mem": null,
- "gpu_power_w": 4.9,
+ "gpu_power_w": 4.8,
  "gpu_power_limit_w": 600.0,
  "gpu_power_percent": 1,
  "gpu_fan_percent": 0,
@@ -68,7 +84,7 @@
    "percent": 86
   }
  ],
- "power_compute_w": 4.9,
+ "power_compute_w": 4.8,
  "gpu_load_5m": 0,
  "gpu_temp_5m": 27,
  "gpu_mem_percent_5m": 95,
