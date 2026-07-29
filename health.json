@@ -1,8 +1,8 @@
 {
  "status": "running",
  "host": "BAYNOUNA II",
- "updated": "2026-07-29T13:25:24Z",
- "updated_local": "17:25",
+ "updated": "2026-07-29T13:30:32Z",
+ "updated_local": "17:30",
  "process": "VLLM::EngineCore",
  "process_name": "VLLM::EngineCore",
  "model": "QWEN",
@@ -14,7 +14,7 @@
   {
    "name": "qwen",
    "weight": 0.7,
-   "percent": 46
+   "percent": 63
   },
   {
    "name": "gemma",
@@ -27,9 +27,9 @@
    "percent": 0
   }
  ],
- "overall_percent": 32,
- "step_percent": 46,
- "eta": "1239h 2m",
+ "overall_percent": 44,
+ "step_percent": 63,
+ "eta": "746h 1m",
  "epoch": null,
  "step_done": null,
  "step_total": null,
@@ -45,11 +45,11 @@
  "gpu_mem_percent": 96,
  "gpu_temp": 28,
  "gpu_temp_mem": null,
- "gpu_power_w": 6.4,
+ "gpu_power_w": 6.1,
  "gpu_power_limit_w": 600.0,
  "gpu_power_percent": 1,
  "gpu_fan_percent": 0,
- "gpu_clock_mhz": 217,
+ "gpu_clock_mhz": 225,
  "gpu_clock_mem_mhz": 405,
  "gpu_pstate": "P8",
  "cpu_load": 2,
@@ -84,11 +84,11 @@
    "percent": 86
   }
  ],
- "power_compute_w": 6.4,
+ "power_compute_w": 6.1,
  "gpu_load_5m": 0,
  "gpu_temp_5m": 28,
  "gpu_mem_percent_5m": 96,
- "gpu_power_w_5m": 6.0,
+ "gpu_power_w_5m": 5.8,
  "gpu_power_percent_5m": 1,
  "cpu_load_5m": 3,
  "cpu_temp_5m": null,
