@@ -1,8 +1,8 @@
 {
  "status": "running",
  "host": "BAYNOUNA II",
- "updated": "2026-07-29T16:09:23Z",
- "updated_local": "20:09",
+ "updated": "2026-07-29T16:14:31Z",
+ "updated_local": "20:14",
  "process": "VLLM::EngineCore",
  "process_name": "VLLM::EngineCore",
  "model": "QWEN",
@@ -14,7 +14,7 @@
   {
    "name": "qwen",
    "weight": 0.7,
-   "percent": 23
+   "percent": 43
   },
   {
    "name": "gemma",
@@ -27,9 +27,9 @@
    "percent": 0
   }
  ],
- "overall_percent": 16,
- "step_percent": 23,
- "eta": "33m",
+ "overall_percent": 30,
+ "step_percent": 43,
+ "eta": "1373h 5m",
  "epoch": null,
  "step_done": null,
  "step_total": null,
@@ -58,9 +58,9 @@
  "cpu_power_w": null,
  "cpu_fan_rpm": null,
  "cpu_freq_mhz": 4300,
- "ram_used_gb": 33.8,
+ "ram_used_gb": 33.1,
  "ram_total_gb": 66.2,
- "ram_percent": 51,
+ "ram_percent": 50,
  "disk_percent": 30,
  "disk_used_gb": 1221,
  "disk_total_gb": 4000,
