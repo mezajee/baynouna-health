@@ -1,8 +1,8 @@
 {
  "status": "running",
  "host": "BAYNOUNA II",
- "updated": "2026-07-30T04:06:31Z",
- "updated_local": "08:06",
+ "updated": "2026-07-30T04:11:39Z",
+ "updated_local": "08:11",
  "process": "VLLM::EngineCore",
  "process_name": "VLLM::EngineCore",
  "model": "QWEN",
@@ -14,7 +14,7 @@
   {
    "name": "qwen",
    "weight": 0.7,
-   "percent": 55
+   "percent": 70
   },
   {
    "name": "gemma",
@@ -27,9 +27,9 @@
    "percent": 0
   }
  ],
- "overall_percent": 38,
- "step_percent": 55,
- "eta": "963h 27m",
+ "overall_percent": 49,
+ "step_percent": 71,
+ "eta": "627h 50m",
  "epoch": null,
  "step_done": null,
  "step_total": null,
@@ -39,13 +39,13 @@
  "recent_docs": [],
  "current_doc": null,
  "gpu_load": 0,
- "gpu_load_avg_5min": 1,
+ "gpu_load_avg_5min": 0,
  "gpu_mem_used_mb": 31395,
  "gpu_mem_total_mb": 32607,
  "gpu_mem_percent": 96,
  "gpu_temp": 27,
  "gpu_temp_mem": null,
- "gpu_power_w": 5.1,
+ "gpu_power_w": 5.2,
  "gpu_power_limit_w": 600.0,
  "gpu_power_percent": 1,
  "gpu_fan_percent": 0,
@@ -58,7 +58,7 @@
  "cpu_power_w": null,
  "cpu_fan_rpm": null,
  "cpu_freq_mhz": 4300,
- "ram_used_gb": 33.4,
+ "ram_used_gb": 33.5,
  "ram_total_gb": 66.2,
  "ram_percent": 50,
  "disk_percent": 31,
@@ -84,15 +84,15 @@
    "percent": 86
   }
  ],
- "power_compute_w": 5.1,
+ "power_compute_w": 5.2,
  "gpu_load_5m": 0,
  "gpu_temp_5m": 27,
  "gpu_mem_percent_5m": 96,
- "gpu_power_w_5m": 5.4,
+ "gpu_power_w_5m": 6.6,
  "gpu_power_percent_5m": 1,
  "cpu_load_5m": 3,
  "cpu_temp_5m": null,
  "cpu_power_w_5m": null,
- "ram_percent_5m": 50,
+ "ram_percent_5m": 51,
  "recent_error": null
 }
