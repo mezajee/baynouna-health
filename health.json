@@ -1,8 +1,8 @@
 {
  "status": "idle",
  "host": "BAYNOUNA II",
- "updated": "2026-07-31T05:45:16Z",
- "updated_local": "09:45",
+ "updated": "2026-07-31T05:50:17Z",
+ "updated_local": "09:50",
  "process": "--",
  "process_name": "VLLM::EngineCore",
  "model": "--",
@@ -29,7 +29,7 @@
  "gpu_mem_percent": 96,
  "gpu_temp": 24,
  "gpu_temp_mem": null,
- "gpu_power_w": 5.7,
+ "gpu_power_w": 6.3,
  "gpu_power_limit_w": 600.0,
  "gpu_power_percent": 1,
  "gpu_fan_percent": 0,
@@ -68,11 +68,11 @@
    "percent": 86
   }
  ],
- "power_compute_w": 5.7,
+ "power_compute_w": 6.3,
  "gpu_load_5m": 0,
  "gpu_temp_5m": 24,
  "gpu_mem_percent_5m": 96,
- "gpu_power_w_5m": 6.0,
+ "gpu_power_w_5m": 6.9,
  "gpu_power_percent_5m": 1,
  "cpu_load_5m": 3,
  "cpu_temp_5m": null,
